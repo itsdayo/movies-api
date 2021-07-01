@@ -12,5 +12,5 @@ To run this application you must
 - `npm start`
 
 <p align="center">
-    <img alt="home page" src="./src/images/project.png" width="500" height="500">
+    <img alt="home page" src="./src/images/project.png" width="500" height="300">
 </p>
